@@ -6,22 +6,22 @@ List of Decred social media groups.
 
 ## Facebook
 
+* Arabia: https://www.facebook.com/Decred-Arabia-1836611206375151/
 * Brazil: https://www.facebook.com/groups/decredbrasil/
 * Canada: https://www.facebook.com/groups/503331090141062/
+* Chinese: https://www.facebook.com/DecredChinese/
+* Chinese: https://www.facebook.com/groups/DecredChinese/
 * Decred Dev Brazil: https://www.facebook.com/groups/773829952802056/
 * Decred International: https://www.facebook.com/groups/decredinternational/
 * France: https://www.facebook.com/groups/403501090093909/
 * Greece: https://www.facebook.com/groups/692867730903055/
-* "official": https://facebook.com/decredproject
+* "official": https://www.facebook.com/decredproject/
 * Paraguay: https://www.facebook.com/groups/428841884278522/
 * Poland: https://www.facebook.com/groups/348702608941127/
+* Polish: https://www.facebook.com/DecredPolska/
 * Portugal: https://www.facebook.com/groups/280045065872655/
 * Ukraine: https://www.facebook.com/groups/425320157915197/
 * Venezuela: https://www.facebook.com/groups/317416195669559/
-* https://www.facebook.com/Decred-Arabia-1836611206375151/
-* https://www.facebook.com/DecredChinese/
-* https://www.facebook.com/DecredPolska/
-* https://www.facebook.com/groups/DecredChinese/
 * {ES?}
 
 ## GitHub
@@ -50,12 +50,17 @@ List of Decred social media groups.
 
 ## Medium
 
-* Italy: https://medium.com/decred-ita
-* "official": https://medium.com/decred
-* Poland: https://medium.com/decred-polska
-* Politeia Digest: https://medium.com/politeia-digest
-* Russia: https://medium.com/decred-russia
+Regional:
+
+* Italian: https://medium.com/decred-ita
+* Polish: https://medium.com/decred-polska
+* Russian: https://medium.com/decred-russia
 * Spanish: https://medium.com/@decred_es
+
+Other:
+
+* "official": https://medium.com/decred
+* Politeia Digest: https://medium.com/politeia-digest
 * The Decred Digest: https://medium.com/@thedecreddigest
 
 ## MeetUp
@@ -89,6 +94,8 @@ List of Decred social media groups.
 
 ## Twitter
 
+Regional:
+
 * Africa: https://twitter.com/Decred_africa
 * Arabia: https://twitter.com/DecredArabia
 * Australia: https://twitter.com/DecredAustralia
@@ -100,18 +107,19 @@ List of Decred social media groups.
 * Germany: https://twitter.com/Decred_DE
 * Ghana: https://twitter.com/deCRED_Ghana
 * Italy: https://twitter.com/Decred_ITA
-* Japan: https://twitter.com/decred_jp
 * Japan: https://twitter.com/Decred_JPN
 * Korea: https://twitter.com/Decred_Kor
-* Mexico: https://twitter.com/Decred_MX {dead?}
 * Polish: https://twitter.com/Decred_PL
 * Polish: https://twitter.com/DecredPolska
 * Spanish: https://twitter.com/Decred_ES
 * Taiwan: https://twitter.com/Decred_TW
 * Turkey: https://twitter.com/Decred_TR
 
+Other:
+
 * Decred Assembly: https://twitter.com/decredassembly
 * Decred Explorer (dcrdata): https://twitter.com/decredexplorer
+* "official": https://twitter.com/decredproject
 * The Decred Digest: https://twitter.com/thedecreddigest
 * https://twitter.com/AllThingsDecred
 * https://twitter.com/Decred_News
@@ -119,7 +127,7 @@ List of Decred social media groups.
 
 ## VK
 
-https://vk.com/decred_project
+* https://vk.com/decred_project
 
 ## WeChat
 
@@ -133,8 +141,7 @@ https://vk.com/decred_project
 
 * Africa: https://www.youtube.com/channel/UCWj1aij3QmzTL4BDTyo0o4Q
 * Brazil: https://www.youtube.com/c/DecredBrasilOficial
-* Brazil: https://www.youtube.com/channel/UC73wa2ddXuPWsmenVfeFTYg
 * Decred Brazil interviews: https://www.youtube.com/channel/UCEhftcyM6NV0_7c0AaaXUmg
-* Decred Brazil Stake Pool: https://www.youtube.com/channel/UC1TdziC2MSZ8kU4gkt8KN_A
+* Decred Brazil VSP: https://www.youtube.com/channel/UC1TdziC2MSZ8kU4gkt8KN_A
 * Decred Community: https://www.youtube.com/channel/UC8ozM0CknOMoQXrBgrIUS7A
 * "official": https://www.youtube.com/decredchannel
