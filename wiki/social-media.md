@@ -103,7 +103,6 @@ Regional:
 * Brazil: https://twitter.com/Decred_BR
 * Canada: https://twitter.com/Decred_CA
 * China: https://twitter.com/DecredCN
-* China: https://twitter.com/Decred_CN
 * France: https://twitter.com/decredfrance
 * Germany: https://twitter.com/Decred_DE
 * Ghana: https://twitter.com/deCRED_Ghana
@@ -148,4 +147,5 @@ Other:
 
 ## Archived
 
-* https://twitter.com/DecredPolska
+* China: https://twitter.com/Decred_CN
+* Polish: https://twitter.com/DecredPolska
