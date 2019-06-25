@@ -88,6 +88,7 @@ Other:
 * Russian: https://t.me/Decred_RU
 * Spanish: https://t.me/DecredES
 * Spanish: https://t.me/Decred_ES {empty? obsolete?}
+* Vietnam: https://t.me/decredvietnam
 * Ticket splitting: https://t.me/dcrtktsplit
 * Ticket splitting (old group): https://t.me/dcrticketsplit
 * https://t.me/Decred
@@ -110,7 +111,6 @@ Regional:
 * Japan: https://twitter.com/Decred_JPN
 * Korea: https://twitter.com/Decred_Kor
 * Polish: https://twitter.com/Decred_PL
-* Polish: https://twitter.com/DecredPolska
 * Spanish: https://twitter.com/Decred_ES
 * Taiwan: https://twitter.com/Decred_TW
 * Turkey: https://twitter.com/Decred_TR
@@ -145,3 +145,7 @@ Other:
 * Decred Brazil VSP: https://www.youtube.com/channel/UC1TdziC2MSZ8kU4gkt8KN_A
 * Decred Community: https://www.youtube.com/channel/UC8ozM0CknOMoQXrBgrIUS7A
 * "official": https://www.youtube.com/decredchannel
+
+## Archived
+
+* https://twitter.com/DecredPolska
