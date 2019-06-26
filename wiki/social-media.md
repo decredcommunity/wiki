@@ -65,14 +65,24 @@ Other:
 
 ## MeetUp
 
+* Australia, Melbourne: https://www.meetup.com/Decred-Australia/
 * Brazil: https://www.meetup.com/pt-BR/DecredBrasil/
-* Canada: https://www.meetup.com/DecredCanada/
+* Canada, Toronto: https://www.meetup.com/DecredCanada/
+* Canada, Vancouver: https://www.meetup.com/Decred/
+* Poland: https://www.meetup.com/Decred-Polska/
+* USA, Chicago: https://www.meetup.com/Chicago-Decred-Meetup/
+* USA, New York: https://www.meetup.com/Decred-NYC/
+* USA, Portland: https://www.meetup.com/decredpdx/
+* USA, San Francisco: https://www.meetup.com/San-Francisco-Decred-Meetup/
+* USA, Washington: https://www.meetup.com/Decred-Washington-DC-Meetup-Group/
 
 ## Reddit
 
 * https://www.reddit.com/r/DCR/
 * https://www.reddit.com/r/Dcrtrader/
 * https://www.reddit.com/r/decred/
+* https://www.reddit.com/r/DecredCA/
+* https://www.reddit.com/r/DecredCanada/
 * https://www.reddit.com/r/politeia/
 
 ## Slack
