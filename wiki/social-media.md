@@ -91,6 +91,8 @@ Other:
 
 ## Telegram
 
+Regional:
+
 * Africa: https://t.me/DecredAfrica
 * Argentina: https://t.me/DecredArg
 * Brazil: https://t.me/decredbr
@@ -100,6 +102,10 @@ Other:
 * Russian: https://t.me/Decred_RU
 * Spanish: https://t.me/DecredES
 * Vietnam: https://t.me/decredvietnam
+
+Other:
+
+* Decred Aggregator: https://t.me/DecredAgg
 * Ticket splitting: https://t.me/dcrtktsplit
 * Ticket splitting (old group): https://t.me/dcrticketsplit
 
