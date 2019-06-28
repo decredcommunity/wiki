@@ -7,6 +7,7 @@ List of Decred social media groups.
 ## Facebook
 
 * Arabia: https://www.facebook.com/Decred-Arabia-1836611206375151/
+* Argentina: https://www.facebook.com/DecredArg/
 * Brazil: https://www.facebook.com/groups/decredbrasil/
 * Canada: https://www.facebook.com/groups/503331090141062/
 * Chinese: https://www.facebook.com/DecredChinese/
@@ -20,9 +21,9 @@ List of Decred social media groups.
 * Poland: https://www.facebook.com/groups/348702608941127/
 * Polish: https://www.facebook.com/DecredPolska/
 * Portugal: https://www.facebook.com/groups/280045065872655/
+* Spanish: https://www.facebook.com/DecredESP/
 * Ukraine: https://www.facebook.com/groups/425320157915197/
 * Venezuela: https://www.facebook.com/groups/317416195669559/
-* {ES?}
 
 ## GitHub
 
@@ -33,7 +34,6 @@ List of Decred social media groups.
 
 * Brazil: https://www.instagram.com/decredbr/
 * https://www.instagram.com/decredproject/
-* {ES?}
 
 ## KakaoTalk
 
@@ -92,16 +92,16 @@ Other:
 ## Telegram
 
 * Africa: https://t.me/DecredAfrica
+* Argentina: https://t.me/DecredArg
 * Brazil: https://t.me/decredbr
 * Chinese: https://t.me/decred_cn
+* English: https://t.me/Decred
 * Italy: https://t.me/DecredItalia
 * Russian: https://t.me/Decred_RU
 * Spanish: https://t.me/DecredES
-* Spanish: https://t.me/Decred_ES {empty? obsolete?}
 * Vietnam: https://t.me/decredvietnam
 * Ticket splitting: https://t.me/dcrtktsplit
 * Ticket splitting (old group): https://t.me/dcrticketsplit
-* https://t.me/Decred
 
 ## Twitter
 
