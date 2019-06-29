@@ -135,6 +135,8 @@ Other:
 * Decred Assembly: https://twitter.com/decredassembly
 * Decred Explorer (dcrdata): https://twitter.com/decredexplorer
 * "official": https://twitter.com/decredproject
+* Politeia activity notifications: https://twitter.com/pi_crumbs
+* Politeia updates and analysis: https://twitter.com/slices_of_pi
 * The Decred Digest: https://twitter.com/thedecreddigest
 * https://twitter.com/AllThingsDecred
 * https://twitter.com/Decred_News
