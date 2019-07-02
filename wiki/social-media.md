@@ -16,6 +16,7 @@ List of Decred social media groups.
 * Decred International: https://www.facebook.com/groups/decredinternational/
 * France: https://www.facebook.com/groups/403501090093909/
 * Greece: https://www.facebook.com/groups/692867730903055/
+* Italy: https://www.facebook.com/DecredITA/
 * "official": https://www.facebook.com/decredproject/
 * Paraguay: https://www.facebook.com/groups/428841884278522/
 * Poland: https://www.facebook.com/groups/348702608941127/
