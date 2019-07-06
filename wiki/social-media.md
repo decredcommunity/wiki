@@ -90,6 +90,11 @@ Other:
 
 * https://slack.decred.org/
 
+## SoundCloud
+
+* Decred in Depth: https://soundcloud.com/decredindepth
+* Decred Russia: https://soundcloud.com/decred-russia
+
 ## Telegram
 
 Regional:
