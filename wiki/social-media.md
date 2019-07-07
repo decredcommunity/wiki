@@ -92,6 +92,7 @@ Other:
 
 ## SoundCloud
 
+* Decred Brasil: https://soundcloud.com/decredbrasil
 * Decred in Depth: https://soundcloud.com/decredindepth
 * Decred Russia: https://soundcloud.com/decred-russia
 
