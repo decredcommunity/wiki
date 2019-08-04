@@ -25,6 +25,7 @@ List of Decred social media groups.
 * Spanish: https://www.facebook.com/DecredESP/
 * Ukraine: https://www.facebook.com/groups/425320157915197/
 * Venezuela: https://www.facebook.com/groups/317416195669559/
+* Vietnam: https://www.facebook.com/Decred-DCR-Vietnam-108991833777572/
 
 ## GitHub
 
@@ -136,6 +137,7 @@ Regional:
 * Spanish: https://twitter.com/Decred_ES
 * Taiwan: https://twitter.com/Decred_TW
 * Turkey: https://twitter.com/Decred_TR
+* Vietnam: https://twitter.com/DecredVietnam
 
 Other:
 
