@@ -35,6 +35,7 @@ List of Decred social media groups.
 ## Instagram
 
 * Brazil: https://www.instagram.com/decredbr/
+* Spanish: https://www.instagram.com/decred_es/
 * https://www.instagram.com/decredproject/
 
 ## KakaoTalk
