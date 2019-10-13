@@ -42,6 +42,10 @@ List of Decred social media groups.
 
 * https://open.kakao.com/o/gltZ30A
 
+## Keybase
+
+* https://keybase.io/team/decred
+
 ## LinkedIn
 
 * Decred: https://www.linkedin.com/company/decredproject
@@ -75,6 +79,7 @@ Other:
 * Poland: https://www.meetup.com/Decred-Polska/
 * USA, Chicago: https://www.meetup.com/Chicago-Decred-Meetup/
 * USA, New York: https://www.meetup.com/Decred-NYC/
+* USA, Philadelphia: https://www.meetup.com/Philadelphia-Technology-for-Blockchain-and-Cryptocurrency/
 * USA, Portland: https://www.meetup.com/decredpdx/
 * USA, San Francisco: https://www.meetup.com/San-Francisco-Decred-Meetup/
 * USA, Washington: https://www.meetup.com/Decred-Washington-DC-Meetup-Group/
