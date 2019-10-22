@@ -113,6 +113,7 @@ Regional:
 * Chinese: https://t.me/decred_cn
 * English: https://t.me/Decred
 * Italy: https://t.me/DecredItalia
+* Netherlands: https://t.me/Decred_NL
 * Russian: https://t.me/Decred_RU
 * Spanish: https://t.me/DecredES
 * Vietnam: https://t.me/decredvietnam
