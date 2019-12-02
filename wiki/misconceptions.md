@@ -40,8 +40,10 @@ Fourth, several developers believe that the proper way to implement partial tick
 
 ## Votes can be bought
 
-- Buying votes in Decred is more expensive than buying hashpower.
-- Votes can be bought in any voting system. You can't stop people from selling votes.
+Votes can be bought in any voting system. You can't stop people from selling votes. In Decred, there are certain disincentives:
+
+- Buying votes is more expensive than buying hashpower.
+- Voters might lose in value of their locked coins if something bad is voted in.
 
 Discussion:
 
