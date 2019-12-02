@@ -8,9 +8,10 @@ Misconceptions and common arguments against on-chain governance, coin voting and
  
 Counterarguments:
 
-- Company shareholder governance is also plutocracy, but nobody complains about that.
+- "plutocracy" has historically only been used to refer to the dominant power in a particular geographical location, the monarchy/empire/state.
 - Voluntary: "plutocracy" is often used to mean non-voluntary (forced) participation, e.g. when you are born into a such society. You were not asked if you would like to participate. In public blockchains, on the other hand, no plutocracy happens to you until you voluntary join a given system.
 - Switching cost: "plutocracy" is often used in context where the switching cost is high. On the other hand, switching from one public blockchain to another is low (sell token A, buy token B). Low cost doesn't mean small losses due to price dynamics. It means it is low effort to perform the switch - to exchange tokens.
+- The concept of governance by the people who share a stake in a common enterprise is familiar from the governance of corporations, although it works in a different way in that context.
 
 Discussion:
 
@@ -19,7 +20,7 @@ Discussion:
 
 ## Ticket voting is not inclusive enough, tickets are expensive
 
-First, "expensive" for what? The amount of power one gets for a ticket is substantial. Tickets allow one to have a say in project's direction, voting on valid chain, consensus changes and budget decisions. This is not small. "Including" people with a few hundred bucks would be nice, but has lower priority than other things.
+First, "expensive" for what? The amount of power one gets for a ticket is substantial. Specifically, one ticket grants ~1/40,960th of the decision-making power. Tickets allow one to have a say in project's direction, voting on valid chain, consensus changes and budget decisions. This is not small. "Including" people with a few hundred bucks would be nice, but has lower priority than other things.
 
 > How much say do you have about USD for a few grand? (@davecgh in [chat](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$154949091135kyeGb:decred.org))
 
