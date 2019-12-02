@@ -9,8 +9,8 @@ Misconceptions and common arguments against on-chain governance, coin voting and
 Counterarguments:
 
 - Company shareholder governance is also plutocracy, but nobody complains about that.
-- Voluntary: "plutocracy" is often used to mean non-voluntary (forced) participation, e.g. when you are born into a such society. You were not asked if you would like to participate. In public blockchains, on the opposite, no plutocracy happens to you until you voluntary join a given system.
-- Switching cost: "plutocracy" is often used in context where the switching cost is high. On the opposite, switching from one public blockchain to another is low (sell token A, buy token B). Low cost doesn't mean small losses due to price dynamics. It means it is low effort to perform the switch - to exchange tokens.
+- Voluntary: "plutocracy" is often used to mean non-voluntary (forced) participation, e.g. when you are born into a such society. You were not asked if you would like to participate. In public blockchains, on the other hand, no plutocracy happens to you until you voluntary join a given system.
+- Switching cost: "plutocracy" is often used in context where the switching cost is high. On the other hand, switching from one public blockchain to another is low (sell token A, buy token B). Low cost doesn't mean small losses due to price dynamics. It means it is low effort to perform the switch - to exchange tokens.
 
 Discussion:
 
@@ -19,7 +19,7 @@ Discussion:
 
 ## Ticket voting is not inclusive enough, tickets are expensive
 
-First, "expensive" for what? The amount of power one gets for a ticket is substantial. Ticket allows one to have a say in project's direction, voting on valid chain, consensus changes and budget decisions. This is not small. "Including" people with a few hundred bucks would be nice, but has lower priority than other things.
+First, "expensive" for what? The amount of power one gets for a ticket is substantial. Tickets allow one to have a say in project's direction, voting on valid chain, consensus changes and budget decisions. This is not small. "Including" people with a few hundred bucks would be nice, but has lower priority than other things.
 
 > How much say do you have about USD for a few grand? (@davecgh in [chat](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$154949091135kyeGb:decred.org))
 
@@ -35,7 +35,7 @@ Fourth, several developers believe that the proper way to implement partial tick
 
 ## The interests of coin holders and users are not aligned
 
-[Source](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca). This requires defining "blockchain user". In case of "utility" tokens this argument can be true. For example, "users" of Ethereum blockchains willing to run smart contracts might have different interests from holders of ETH tokens. In case of "store of value" tokens the distinction between "users" and "holders" is less obvious and the sets have greater overlap than for "utility" tokens.
+[Source](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca). This requires defining "blockchain user". In the case of "utility" tokens this argument can be true. For example, "users" of Ethereum blockchains willing to run smart contracts might have different interests from holders of ETH tokens. In case of "store of value" tokens the distinction between "users" and "holders" is less obvious and the sets have greater overlap than for "utility" tokens.
 
 ## Votes can be bought
 
