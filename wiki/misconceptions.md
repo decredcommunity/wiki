@@ -32,7 +32,20 @@ Fourth, several developers believe that the proper way to implement partial tick
 
 ## Coin holders cannot make good decisions
 
+Decred decouples _decision making power_ from _expertise_. Like all people, experts have their own agendas. To make better decisions, coin holders are incentivized to listen what experts say. But coin holders will be the ones to face _consequences_ of the decisions and so they have the final say.
+
+Metaphors:
+
+- Shareholders in a company hire, pay and listen to experts, but have the final say.
+- When you are building or buying a house, you don't know everything and consult with experts. But you are the one choosing which experts to consult and what advice to follow, because you are the one who will live in the house.
+- When choosing a car, you may have no expertise but you will use it (and risk your life).
+- When visiting doctors, you use their expertise to learn about diseases and cure, but you will be the one to have consequences and you can choose which advice to follow.
+
 > I've said it on multiple occasions, but I've always found the arguments of that nature to, in the most charitable light, be ill-informed, or, in the more realistic light, incredibly narcissistic in nature. When you cut right to the heart of it, it is effective saying "Only I, or some person of my choosing, is smart enough to make these kinds of decisions. The rest of you plebs need not apply". (@davecgh in #general)
+
+Discussion:
+
+- @jy-p on experts vs decision making power in Off the Chain podcast ([player.fm](https://player.fm/series/off-the-chain-2428336/jake-yocom-piatt-project-lead-for-decred-crypto-ego-management))
 
 ## The interests of coin holders and users are not aligned
 
