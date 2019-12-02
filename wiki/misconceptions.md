@@ -47,6 +47,20 @@ Discussion:
 
 - @jy-p on experts vs decision making power in Off the Chain podcast ([player.fm](https://player.fm/series/off-the-chain-2428336/jake-yocom-piatt-project-lead-for-decred-crypto-ego-management))
 
+## Voting on policies is inefficient compared to electing representatives
+
+{TODO}
+
+- The interests of elected representatives are often not aligned with interests of people who will feel the consequences.
+
+## Dev tax is bad
+
+The 10% of block rewards are going to the Treasury.
+
+- It is not "tax" because Decred is an opt-in system. Term "tax" usually refers to nation state law that uses force to make individuals pay. If Treasury is "tax", then emission of fiat currency is also "tax", although much worse because neither the emission nor distribution is voted on by holders of the currency (who are affected by the dilution).
+- It is not "_dev_ tax" because the Treasury can also fund design, outreach, events, integrations, partnerships, and virtually anything that stakeholders approve.
+- The alternative to having no common Treasury is to depend on altruism, venture capital and other external help that is unreliable and comes with its own interest.
+
 ## The interests of coin holders and users are not aligned
 
 [Source](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca). This requires defining "blockchain user". In the case of "utility" tokens this argument can be true. For example, "users" of Ethereum blockchains willing to run smart contracts might have different interests from holders of ETH tokens. In case of "store of value" tokens the distinction between "users" and "holders" is less obvious and the sets have greater overlap than for "utility" tokens.
