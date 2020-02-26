@@ -1,14 +1,16 @@
 # Misconceptions
 
-This page collects misconceptions and common arguments against on-chain governance, coin voting and other Decred systems.
+This page collects and addresses misconceptions and common arguments against on-chain governance, coin voting and other Decred systems.
 
 ## Coin voting is plutocracy
  
 Counterarguments:
 
-- "plutocracy" has historically only been used to refer to the dominant power in a particular geographical location, the monarchy/empire/state.
+- Definition: ["plutocracy"](https://en.wikipedia.org/wiki/Plutocracy) has historically only been used to refer to the dominant power in a particular geographical location, the monarchy/empire/state.
 - Voluntary: "plutocracy" is often used to mean non-voluntary (forced) participation, e.g. when you are born into a such society. You were not asked if you would like to participate. In public blockchains, on the other hand, no plutocracy happens to you until you voluntary join a given system.
 - Switching cost: "plutocracy" is often used in context where the switching cost is high. On the other hand, switching from one public blockchain to another is low (sell token A, buy token B). Low cost doesn't mean small losses due to price dynamics. It means it is low effort to perform the switch - to exchange tokens.
+- Scope: the voting power you get for having (more) DCR is limited to controlling how Decred works and how its Treasury is spent. Decred is not a full [society](https://en.wikipedia.org/wiki/Society) or nation state and it lacks many elements that could be subject to plutocracy: territory, military, police, healthcare, religion, etc. Decred's [mission](https://docs.decred.org/governance/decred-constitution/) is limited to building technology for the public benefit with a focus on cryptocurrency technology. Outside of Decred, DCR can be used like any other form of wealth to pursue the ideas of plutocracy in full societies.
+- Strict rules: even if we imagine that DCR is adopted in some society and plutocracy is established, it will be a very different game because printing wealth out of thin air is not allowed.
 - The concept of governance by the people who share a stake in a common enterprise is familiar from the governance of corporations, although it works in a different way in that context.
 
 Discussion:
@@ -30,14 +32,14 @@ Fourth, several developers believe that the proper way to implement partial tick
 
 ## Coin holders cannot make good decisions
 
-Decred decouples _decision making power_ from _expertise_. Like all people, experts have their own agendas. To make better decisions, coin holders are incentivized to listen what experts say. But coin holders will be the ones to face _consequences_ of the decisions and so they have the final say.
+Decred decouples _sovereignty_ (decision making power) from _expertise_. Like all people, experts have their own agendas. To make better decisions, coin holders are incentivized to listen what experts say. But coin holders are given the final say because they will be the ones to face _consequences_ of the decisions.
 
-Metaphors:
+A few metaphors:
 
 - Shareholders in a company hire, pay and listen to experts, but have the final say.
 - When you are building or buying a house, you don't know everything and consult with experts. But you are the one choosing which experts to consult and what advice to follow, because you are the one who will live in the house.
 - When choosing a car, you may have no expertise but you will use it (and risk your life).
-- When visiting doctors, you use their expertise to learn about diseases and cure, but you will be the one to have consequences and you can choose which advice to follow.
+- When visiting doctors, you use (and pay for) their expertise to learn about diseases and cure, but you will be the one to have consequences and you can choose which advice to follow. If the doctor prescribes wrong medicine or ignores the root cause, it will be _your_ problem.
 
 > I've said it on multiple occasions, but I've always found the arguments of that nature to, in the most charitable light, be ill-informed, or, in the more realistic light, incredibly narcissistic in nature. When you cut right to the heart of it, it is effective saying "Only I, or some person of my choosing, is smart enough to make these kinds of decisions. The rest of you plebs need not apply". (@davecgh in #general)
 
@@ -63,15 +65,23 @@ Decred has similar demand for attention and participation in return for much gre
 
 ## Dev tax is bad
 
-The 10% of block rewards are going to the Treasury.
+The 10% of [block rewards](https://docs.decred.org/advanced/inflation/) are going to the Treasury.
 
-- It is not "tax" because Decred is an opt-in system. Term "tax" usually refers to nation state law that uses force to make individuals pay. If Treasury is "tax", then emission of fiat currency is also "tax", although much worse because neither the emission nor distribution is voted on by holders of the currency (who are affected by the dilution).
+- It is not "tax" because Decred is an opt-in system. Term ["tax"](https://en.wikipedia.org/wiki/Tax) refers to nation state law that uses force to make individuals pay and that is very hard to opt-out. If dilution from Decred Treasury is "tax", then emission of fiat currency is also "tax" but much worse because neither the emission nor distribution is voted on by holders of the currency (who are affected by the dilution).
 - It is not "_dev_ tax" because the Treasury can also fund design, outreach, events, integrations, partnerships, and virtually anything that stakeholders approve.
 - The alternative to having no common Treasury is to depend on altruism, venture capital and other external help that is unreliable and comes with its own interest.
 
 ## The interests of coin holders and users are not aligned
 
-[Source](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca). This requires defining "blockchain user". In the case of "utility" tokens this argument can be true. For example, "users" of Ethereum blockchains willing to run smart contracts might have different interests from holders of ETH tokens. In case of "store of value" tokens the distinction between "users" and "holders" is less obvious and the sets have greater overlap than for "utility" tokens.
+This is a commont argument from [Ethereum folks](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca). This requires to define who is the "user". In the case of "utility" tokens this argument can be true. For example, "users" of Ethereum blockchain willing to run smart contracts might have different interests from holders of ETH tokens. In case of "store of value" tokens the distinction between "users" and "holders" is less obvious and these sets have greater overlap than for "utility" tokens.
+
+If coin holders are not given power because their interest are not aligned with users, some other group will have this power and not necessarily serve in users' best interests as well:
+
+- developers' decisions might get steered by their investors or their desire to stay in power
+- miners' decisions might get steered by their profits
+- decisions of economic nodes like exchanges might get steered by their profits or their legal environments
+
+Giving power to users themselves fixes the incentives but introduces the problem how to distribute that power. If voting with main coin is avoided, other ways to assign power must be explored like auxiliary voting tokens, identity systems, user-based Proof-of-Work or something else. The challenge is to align incentives without making the system centralized or permissioned.
 
 ## Votes can be bought
 
@@ -86,40 +96,40 @@ Discussion:
 
 ## Coin voting governance can be added later
 
-It is hard to add coin voting if the system did not launch with it.
+In theory yes, but it is hard to add coin voting if the system did not launch with it.
 
 The challenges:
 
-1. Will actors in power (miners or developers) give their power away?
-2. How will people coordinate and maximize participation in the transition?
+1. Will actors in power (miners or developers) give their power away to holders?
+2. How will people coordinate and maximize participation during the transition?
 3. Will enough people vote after the transition?
 
-Adding coin voting is more generally changing the governance model. For established projects it is essentially a transition of power from one group to another.
+Transition to coin voting is a radical change to the governance model. For established projects it is essentially a transition of power from one group to another.
 
-Existing direct holders of power either need to voluntarily give it up (e.g. miners approving blocks with new consensus rules where coin holders gain the voice, or developers shutting down their central "coordinator" server), or have their power forcibly revoked by groups with indirect power through a coordinated action (e.g. UASF-style move by a majority of economic nodes and users). The latter is kind of a revolt. In short, changing governance model will meet resistance. Posts against on-chain governance by Ethereum leaders with decision making power have demonstrated that it is easy for such projects.
+Existing direct holders of power either need to voluntarily give it up (e.g. miners approving blocks with new consensus rules where coin holders gain the voice, or developers shutting down their central "coordinator" server), or have their power forcibly revoked by groups with indirect power through a coordinated action (e.g. UASF-style move by a majority of economic nodes and users). The latter is sort of a revolt. The change of governance model will meet resistance.
 
-Second issue is coordination. Decred community already has decent coordination tools and is building more. There is a process to [upgrade consensus](https://docs.decred.org/governance/consensus-rule-voting/overview/) and another to make [budget decisions](https://docs.decred.org/governance/politeia/overview/).
+Second issue is coordination of upgrades. Decred community already has decent coordination tools and is building more. There is a process to [upgrade consensus](https://docs.decred.org/governance/consensus-rule-voting/overview/) and another to make [budget decisions](https://docs.decred.org/governance/politeia/overview/).
 
-Finally, for coin voting to be strong it requires a substantial voter turnout. It takes time and many voting rounds to grow the culture. Decred community is constantly involved and keeps training to make better decisions. Historical participation is above 50% for [consensus votes](https://docs.decred.org/governance/consensus-rule-voting/consensus-vote-archive/) and above 20% tickets (~10% coin supply) for budget and policy [decisions](https://explorer.dcrdata.org/proposals). A project looking to transfer power from miners to coin holders would need to (besides gaining miner support or pulling a revolt) engage many holders who didn't vote before, train them to participate and make them stay around for future votes. Even if people in power are willing to give it away, but there are too few voters, the power will transition to a very small group.
+Finally, for coin voting to be strong it requires a substantial voter turnout. It takes time and many voting rounds to grow the culture where people care and participate. Decred community is constantly involved and keeps learning to make better decisions. Historical participation is above 50% for [consensus votes](https://docs.decred.org/governance/consensus-rule-voting/consensus-vote-archive/) and above 20% tickets (~10% coin supply) for budget and policy [decisions](https://explorer.dcrdata.org/proposals). A project looking to transfer power from miners to coin holders would need to (besides gaining miner support or pulling a revolt) engage many holders who didn't vote before, train them to participate and make them stay around for future votes. Even if people in power are willing to give it away but there are too few voters, the power will transition to a very small group.
 
 Discussion:
 
 - https://www.reddit.com/r/decred/comments/cirkvr/decreds_governance_model/
 
-## Why doesn't Decred just use PoS only and checkpoint into Bitcoin?
+## Why doesn't Decred just use PoS alone and checkpoint into Bitcoin?
 
-That would mean Decred PoS layer follows whatever Bitcoin miners come up with. Having own PoW is necessary to have miners in check, and the only way to do it is to start the chain from scratch. (from [reddit](https://www.reddit.com/r/decred/comments/8o2h0q/andreas_talks_about_pos_and_pow_i_think_pos/))
+That would mean Decred PoS layer follows whatever Bitcoin miners come up with. Having own PoW is necessary to have miners in check. (from [reddit](https://www.reddit.com/r/decred/comments/8o2h0q/andreas_talks_about_pos_and_pow_i_think_pos/))
 
 ## ASIC resistance, GPU-friendly algo is better
 
 1. ASICs will appear sooner or later. It's a matter of time and financial incentive.
-   - We have seen many examples throughout the history of cryptocurrencies: Litecoin's Scrypt, Ethereum's Dagger, Dash's X11, Zcash's Equihash, certain versions of Monero's algorithm, and several others - all started as "ASIC-resistant" but have seen ASICs developed for them that outperformed GPUs.
+   - We have seen many examples throughout the history of cryptocurrencies: Litecoin's Scrypt, Ethereum's Dagger, Dash's X11, Zcash's Equihash, multiple Monero's past algorithms, etc - all started as "ASIC-resistant" but have seen ASICs developed for them that outperformed GPUs.
 2. To "resist" ASICs you need to frequently change hashing algorithm. This is dangerous for network's security because it adds more complexity and more frequent changes to very sensitive code.
 3. GPUs can mine a ton of other coins.
    - GPU owner is not incentivized to stay with certain network and work for its success.
    - GPU owner is not incentivized to not attack the network because he can easily switch to another after the attack.
    - There's a lot of GPU hashpower out there, and some of it can be easily rented to attack the network. To be safer, the network must be dominant in the GPU hashrate market.
-4. Even if ASICs are never developed, if the coin gets big the GPU manufacturers can rig the game by using next gen cards themselves before selling them on the market.
+4. Even if ASICs are never developed, if the coin gets big the _GPU manufacturers_ can rig the game by using next gen cards themselves before selling them on the market.
 
 Recommended:
 
@@ -129,19 +139,19 @@ Recommended:
 
 ## Decred is a fork of Bitcoin
 
-Decred is not a fork of Bitcoin.
+Decred is not a fork of Bitcoin in any useful sense.
 
-"Bitcoin fork" usually means Bitcoin Core codebase fork, Bitcoin chain fork, or new chain started from a snapshot of Bitcoin UTXO set. Decred is none of that.
+"Bitcoin fork" usually means Bitcoin Core codebase fork, Bitcoin chain fork, or new chain started from a snapshot of Bitcoin UTXO set. Decred is neither of that.
 
 1. Decred is not a fork of Bitcoin Core codebase. It is not a low effort fork that only changes a few parameters or &lt;1% of the codebase. All code was written from scratch in a different programming language. Hundreds of thousands lines of code written from scratch since 2013 would cost hundreds of thousands or even millions of USD.
 
 2. Decred is not a fork of Bitcoin chain. Decred chain was started from scratch in Feb 2016.
 
-3. Decred was not started from snapshot of Bitcoin UTXO set. The distribution started from a 8% premine split 50%/50% between developers and airdrop participants, and continued as 60%/30%/10% split between PoW miners, PoS voters and the Treasury.
+3. Decred was not started from snapshot of Bitcoin UTXO set. Distribution of DCR was started with a 8% [premine](https://docs.decred.org/advanced/premine/) split 50%/50% between the developers (to compensate for past work) and open airdrop participants, and continued as 60%/30%/10% split between PoW miners, PoS voters and the Treasury.
 
-Decred is a fork of btcsuite codebase, which is a from-scratch implementation of the Bitcoin protcol. So it can be arguably called a fork of Bitcoin protocol or Bitcoin concept. But nobody reads or says "fork" in that sense, so calling Decred "a fork of Bitcoin" undervalues thousands of high quality man hours put into building Decred.
+Decred is a fork of btcsuite codebase, which is a from-scratch implementation of the Bitcoin protcol. Arguably it can be called a "fork of Bitcoin protocol" or a "fork of Bitcoin concept". But nobody means "fork" in that sense, so calling Decred "a fork of Bitcoin" devalues thousands of high quality man hours put into building Decred.
 
-lnd, one implementation of Lightning Network, is kind of a "fork" of btcsuite too. It saved lnd a lot of time and money, and thanks to it Bitcoin's Lightning Network is much more developed now than it would be without btcsuite.
+It is worth noting that lnd, one implementation of Lightning Network, is kind of a "fork" of btcsuite too. btcsuite saved lnd a lot of time and money, and thanks to it Bitcoin's LN is much more developed now than it would be without btcsuite.
 
 Discussions:
 
@@ -162,19 +172,19 @@ Discussion:
 - https://twitter.com/NoahPierau/status/1086229612437356545
 - https://twitter.com/NoahPierau/status/1086236361752039425
 - https://twitter.com/NoahPierau/status/1103234103439171584
-- Murad on Decred premine ([57:07](https://www.youtube.com/watch?v=XkvcdjSH0c0&t=57m07s))
+- Murad on Decred's premine ([57:07](https://www.youtube.com/watch?v=XkvcdjSH0c0&t=57m07s))
 
 ## Decred's airdrop was not fair
 
 Docs page: [Airdrop](https://docs.decred.org/advanced/premine/#airdrop).
 
-> Also, the airdrop gets some bad press because the team “chose” who received it, but a big part of that was to remove the “unfairness” of people cheating by trying to get multiple airdrops. There is a lot of unfairness in the stock IPO model where certain people get the ability to purchase at the IPO price, some can buy more than others, and others can’t get anything at all. The airdrop was therefore more fair to the general public - it was just a light burden of proof that you had _something_ to do with technology/internet and _might_ be helpful to the project/community. (@snr01 on [2019-03-06](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$155187615918225orXdP:decred.org))
+> Also, the airdrop gets some bad press because the team "chose" who received it, but a big part of that was to remove the "unfairness" of people cheating by trying to get multiple airdrops. There is a lot of unfairness in the stock IPO model where certain people get the ability to purchase at the IPO price, some can buy more than others, and others can't get anything at all. The airdrop was therefore more fair to the general public - it was just a light burden of proof that you had _something_ to do with technology/internet and _might_ be helpful to the project/community. (@snr01 on [2019-03-06](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$155187615918225orXdP:decred.org))
 
 > One of the downsides to transparency is that it also invites a lot of misinformation. (...) Another example is that Decred was completely transparent about its airdrop which resulted in it having one of the best Gini coefficients in the space while Bitcoin was effectively pre-mined to all hell in the early days by the Satoshi entity as detailed analysis has very strongly hinted at, but because it wasn't transparent, a ton of people attempt to act like it never happened. Anyway, the point is that transparency is great, but it's important to keep in mind that it also comes with a lot of negativity too. (@davecgh on [2019-08-10](https://matrix.to/#/!MIGqWXfLFBwhipPKYL:decred.org/$156545014313306LiRUf:decred.org))
 
-## PoW uses too much energy, is bad for environment, etc
+## Proof-of-Work uses too much energy, is bad for environment, etc
 
-Energy use of cryptocurrencies must be compared to energy use of systems they are competing with. Why would you compare energy use of Bitcoin to power drawn by X households or Iceland, and not to energy use of the banking system? Same for carbon footprint and other metrics.
+Energy use of cryptocurrencies must be compared to energy use of systems they are competing with. Why would you compare energy use of Bitcoin to power drawn by X households or Iceland, and not to energy used by the banking system? Same for carbon footprint and other metrics.
 
 > Operating expenses for the entire banking industry may be $700B a year https://www.macrotrends.net/stocks/charts/BAC/bank-of-america/operating-expenses ([duganist](https://twitter.com/duganist/status/1167770570022408194))
 
@@ -190,7 +200,7 @@ Research:
 - https://digiconomist.net/bitcoin-electronic-waste-monitor/
 - https://phys.org/news/2018-08-energy-bitcoin.html
 
-## Decred gives passive income / returns / dividends / yield
+## Decred gives passive income (returns, dividends, yield)
 
 Decred's voting reward is called "reward" for a reason. Its primary goal is to reward voters for locking coins and making decisions to advance the network. It is not fully "passive" - you have to do something and risk, and it is not "dividends".
 
@@ -208,11 +218,11 @@ Some people have likely incorrectly interpreted it.
 
 > this was done more to give credit for proposing a system substantially similar to mc2's than to suggest PoA had a dominant role in the development of dcr (@jy-p on [2019-11-03](https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$157280146131785QqYMu:decred.org))
 
-A 2017 [tweet](https://twitter.com/SatoshiLite/status/825190721216933888) by Charlie Lee further supported the idea.
+A 2017 [tweet](https://twitter.com/SatoshiLite/status/825190721216933888) by Charlie Lee further enforced the belief.
 
 Decred is based on [Memcoin2](https://decred.org/research/mackenzie2013.pdf) paper.
 
-PoA's contribution to Decred:
+PoA's actual contributions to Decred:
 
 - spurred the founders to hurry up getting Decred into production
 - stakepool concept
