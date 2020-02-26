@@ -1,8 +1,6 @@
 # Misconceptions
 
-{title candidates: Misconceptions, Rebuttals, Common criticism}
-
-Misconceptions and common arguments against on-chain governance, coin voting and other aspects of Decred system.
+This page collects misconceptions and common arguments against on-chain governance, coin voting and other Decred systems.
 
 ## Coin voting is plutocracy
  
@@ -49,9 +47,19 @@ Discussion:
 
 ## Voting on policies is inefficient compared to electing representatives
 
-{TODO}
+- Delegating decision making power to elected representatives can indeed be more efficient. They can do it full time, they can be experts in relevant domains and they can know much more current information than an average voter. The problem is that their interests are often not aligned with interests of voters who will feel the consequences.
+- Electing representatives was the only way for large groups to make collective decisions throughout most of the history. What has changed recently is the introduction of computers, the Internet, instant communication across any distance, and the development of consensus algorithms that allow multiple parties to agree on something without a central point of control. All this technology allows to create systems for collective decision making where the need of elected representatives is minimized or removed.
+- Although it is rare, direct voting exists in nation state politics as [direct democracy](https://en.wikipedia.org/wiki/Direct_democracy) where people decide on policy initiatives directly. Switzerland is a notable example:
 
-- The interests of elected representatives are often not aligned with interests of people who will feel the consequences.
+> Most western countries have representative systems. Switzerland is a rare example of a country with instruments of direct democracy (at the levels of the municipalities, cantons, and federal state). Citizens have more power than in a representative democracy. On any political level citizens can propose changes to the constitution (popular initiative), or ask for an optional referendum to be held on any law voted by the federal, cantonal parliament and/or municipal legislative body.
+
+The price for having more power is it requires to pay more attention and actively participate:
+
+> The list for mandatory or optional referendums on each political level are generally much longer in Switzerland than in any other country; for example any amendment to the constitution must automatically be voted on by the Swiss electorate and cantons, on cantonal/communal levels often any financial decision of a certain substantial amount decreed by legislative and/or executive bodies as well.
+> 
+> Swiss citizens vote regularly on any kind of issue on every political level, such as financial approvals of a school house or the building of a new street, or the change of the policy regarding sexual work, or on constitutional changes, or on the foreign policy of Switzerland, four times a year. Between January 1995 and June 2005, Swiss citizens voted 31 times, on 103 federal questions besides many more cantonal and municipal questions. During the same period, French citizens participated in only two referendums.
+
+Decred has similar demand for attention and participation in return for much greater sovereignty the individual can get than in many competing cryptocurrency systems. During the [first year](https://blockcommons.red/publication/politeia-at-1/) of Decred's off-chain decision making platform (Politeia), 38 proposals have been voted on with an average turnout of 31% of eligible voting tickets (representing ~15% of the circulating DCR supply).
 
 ## Dev tax is bad
 
@@ -92,7 +100,7 @@ Existing direct holders of power either need to voluntarily give it up (e.g. min
 
 Second issue is coordination. Decred community already has decent coordination tools and is building more. There is a process to [upgrade consensus](https://docs.decred.org/governance/consensus-rule-voting/overview/) and another to make [budget decisions](https://docs.decred.org/governance/politeia/overview/).
 
-Finally, for coin voting to be strong it requires a substantial voter turnout. Decred community is constantly involved and keeps training to meke better decisions. Historical participation is above 50% for [consensus votes](https://docs.decred.org/governance/consensus-rule-voting/consensus-vote-archive/) and above 20% tickets (~10% coin supply) for budget and policy [decisions](https://explorer.dcrdata.org/proposals). A project looking to transfer power from miners to coin holders would need to (besides gaining miner support or pulling a revolt) engage many holders who didn't vote before, train them to participate and make them stay around for future votes.
+Finally, for coin voting to be strong it requires a substantial voter turnout. It takes time and many voting rounds to grow the culture. Decred community is constantly involved and keeps training to make better decisions. Historical participation is above 50% for [consensus votes](https://docs.decred.org/governance/consensus-rule-voting/consensus-vote-archive/) and above 20% tickets (~10% coin supply) for budget and policy [decisions](https://explorer.dcrdata.org/proposals). A project looking to transfer power from miners to coin holders would need to (besides gaining miner support or pulling a revolt) engage many holders who didn't vote before, train them to participate and make them stay around for future votes. Even if people in power are willing to give it away, but there are too few voters, the power will transition to a very small group.
 
 Discussion:
 
