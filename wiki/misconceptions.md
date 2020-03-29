@@ -233,3 +233,30 @@ Reading:
 - https://docs.decred.org/research/overview/
 - https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$154465703641757josZI:decred.org
 - https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$157280114531777HJBxJ:decred.org
+
+## Staking limits market liquidity
+
+Background: DCR holders can lock their coins in the PoS system to gain decision making power and receive voting rewards. Such locked DCR become non-liquid (cannot move) for up to 142 days. This naturally limits the total amount of DCR that can move at any given moment. As of writing (March 2020), roughly half of the 11.2M mined coins is locked in PoS, which means that only 5.6M DCR is liquid (it's even less due to other factors that we ignore here).
+
+Some people argue that the PoS system significantly hurts _exchange liquidity_ specifically, i.e. the amount of DCR that people are _willing_ to trade. Such DCR is held on exchanges and placed in the order books or is ready to go there once the market reaches some desired state. Other tradeable DCR is directed by OTC desks or is simply idle in the wallets waiting to be traded.
+
+In other words, the argument is that the PoS system makes it harder to buy and sell DCR, which in turn makes DCR a less attractive asset for investors.
+
+On the one hand:
+
+- Staking is an extra incentive to not trade your DCR since it offers a risk-free DCR yield (about 7%/year as of writing, latest estimate is [here](https://dcrdata.decred.org/)). It is plausible that some people would trade or loan their DCR if there was no staking.
+- If your DCR is locked and you suddenly need to trade it, you can't.
+
+On the other hand:
+
+- Staking is strictly opt-in. You can use fiat in trade or you can buy stock in a company and take part in governance. Same for DCR, you can trade it or you can buy tickets. Staking may pull some money from exchanges, but if you want to trade your DCR nothing stops you from doing so (unless you have already locked the coins, then you need to wait).
+- It is not a binary choice between staking and trading. If there was no staking system some would just hold and still not trade.
+- The way DCR is locked in PoS can be compared to a loan market where it is not allowed to revoke the loan before the agreed upon date. Such loan market may develop in any cryptocurrency and also restrict liquidity.
+- Staking yield [declines](https://docs.decred.org/advanced/issuance/) over time due to decreasing PoS rewards and increasing ticket price.
+- On average, every block 5 tickets worth of DCR are entering the PoS system, but also the same amount is exiting it. Should the DCR market price rise significantly, some holders will direct their unlocked DCR to the market thus increasing liquidity when there is demand.
+
+Discussion:
+
+- https://www.reddit.com/r/decred/comments/6r9yd8/competition_between_liquidity_and_participation/
+- https://www.reddit.com/r/decred/comments/7tx4rm/pos_vs_liquidity_can_we_have_both/
+
