@@ -2,6 +2,24 @@
 
 This page collects and addresses misconceptions and common arguments against on-chain governance, coin voting and other Decred systems.
 
+- [Coin voting is plutocracy](#coin-voting-is-plutocracy)
+- [Ticket voting is not inclusive enough, tickets are expensive](#ticket-voting-is-not-inclusive-enough-tickets-are-expensive)
+- [Coin holders cannot make good decisions](#coin-holders-cannot-make-good-decisions)
+- [Voting on policies is inefficient compared to electing representatives](#voting-on-policies-is-inefficient-compared-to-electing-representatives)
+- [Dev tax is bad](#dev-tax-is-bad)
+- [The interests of coin holders and users are not aligned](#the-interests-of-coin-holders-and-users-are-not-aligned)
+- [Votes can be bought](#votes-can-be-bought)
+- [Coin voting governance can be added later](#coin-voting-governance-can-be-added-later)
+- [Why doesn't Decred just use PoS alone and checkpoint into Bitcoin?](#why-doesnt-decred-just-use-pos-alone-and-checkpoint-into-bitcoin)
+- [ASIC resistance, GPU-friendly algo is better](#asic-resistance-gpu-friendly-algo-is-better)
+- [Decred is a fork of Bitcoin](#decred-is-a-fork-of-bitcoin)
+- [Decred's launch or premine was not fair](#decreds-launch-or-premine-was-not-fair)
+- [Decred's airdrop was not fair](#decreds-airdrop-was-not-fair)
+- [Proof-of-Work uses too much energy, is bad for environment, etc](#proof-of-work-uses-too-much-energy-is-bad-for-environment-etc)
+- [Decred gives passive income (returns, dividends, yield)](#decred-gives-passive-income-returns-dividends-yield)
+- [Decred is based on Proof of Activity paper](#decred-is-based-on-proof-of-activity-paper)
+- [Staking hurts market liquidity](#staking-hurts-market-liquidity)
+
 ## Coin voting is plutocracy
  
 Counterarguments:
@@ -236,7 +254,7 @@ Reading:
 - https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$154465703641757josZI:decred.org
 - https://matrix.to/#/!kdpEDksmOMNrlMqffD:decred.org/$157280114531777HJBxJ:decred.org
 
-## Staking limits market liquidity
+## Staking hurts market liquidity
 
 Background: DCR holders can lock their coins in the PoS system to gain decision making power and receive voting rewards. Such locked DCR become non-liquid (cannot move) for up to 142 days. This naturally limits the total amount of DCR that can move at any given moment. As of writing (March 2020), roughly half of the 11.2M mined coins is locked in PoS, which means that only 5.6M DCR is liquid (it's even less due to other factors that we ignore here).
 
