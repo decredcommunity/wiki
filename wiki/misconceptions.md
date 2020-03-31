@@ -93,7 +93,9 @@ The 10% of [block rewards](https://docs.decred.org/advanced/issuance/) are going
 
 ## The interests of coin holders and users are not aligned
 
-This is a commont argument from [Ethereum folks](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca). This requires to define who is the "user". In the case of "utility" tokens this argument can be true. For example, "users" of Ethereum blockchain willing to run smart contracts might have different interests from holders of ETH tokens. In case of "store of value" tokens the distinction between "users" and "holders" is less obvious and these groups have greater overlap than for "utility" tokens.
+This used to be a commont argument from [Ethereum folks](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca), but somewhere in 2019 they pivoted to pitch ETH as [store of value](https://docs.ethhub.io/ethereum-basics/what-is-ether/#store-of-value) and this argument became less used. In case it will be made again in the future, Decred's approach is below.
+
+To address the "users vs holders" we need to define who is the "user". In the case of "utility" tokens this argument can be true. For example, "users" of Ethereum blockchain willing to run smart contracts might have different interests from holders of ETH tokens. In case of "store of value" tokens the distinction between "users" and "holders" is less obvious and these groups have greater overlap than for "utility" tokens.
 
 If coin holders are not given power because their interest are not aligned with users, some other group will have this power and not necessarily serve in users' best interests as well:
 
