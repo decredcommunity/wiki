@@ -10,8 +10,11 @@ Pages:
 
 - Arabia: https://www.facebook.com/Decred-Arabia-1836611206375151/
 - Argentina: https://www.facebook.com/DecredArg/
+- Australia: https://www.facebook.com/decredau/
 - Chinese: https://www.facebook.com/DecredChinese/
 - English "official": https://www.facebook.com/decredproject/
+- English "Decred DAO": https://www.facebook.com/Decredcash/
+  - note: it has a _lot_ of followers but it is unknown who runs this page
 - Italy: https://www.facebook.com/DecredITA/
 - Polish: https://www.facebook.com/DecredPolska/
 - Spanish: https://www.facebook.com/DecredESP/
@@ -25,6 +28,7 @@ Groups:
 - Chinese: https://www.facebook.com/groups/DecredChinese/
 - Decred Dev Brazil: https://www.facebook.com/groups/773829952802056/
 - Decred International: https://www.facebook.com/groups/decredinternational/
+  - alternative links: https://www.facebook.com/groups/975727812500893/
 - France: https://www.facebook.com/groups/403501090093909/
 - Greece: https://www.facebook.com/groups/692867730903055/
 - Paraguay: https://www.facebook.com/groups/428841884278522/
@@ -57,6 +61,7 @@ Groups:
 
 - Decred: https://www.linkedin.com/company/decredproject
 - Politeia page: https://www.linkedin.com/showcase/decred-politeia
+- dcrdex page: https://www.linkedin.com/showcase/dcrdex
 
 ## Matrix
 
@@ -85,6 +90,7 @@ Other:
 - Canada, Vancouver: https://www.meetup.com/Decred/
 - Poland: https://www.meetup.com/Decred-Polska/
 - USA, Chicago: https://www.meetup.com/Chicago-Decred-Meetup/
+- USA, Kansas City: https://www.meetup.com/Decred-KC/
 - USA, New York: https://www.meetup.com/Decred-NYC/
 - USA, Philadelphia: https://www.meetup.com/Philadelphia-Technology-for-Blockchain-and-Cryptocurrency/
 - USA, Portland: https://www.meetup.com/decredpdx/
@@ -103,6 +109,7 @@ Other:
 ## Slack
 
 - https://slack.decred.org/
+  - note: Slack was unbridged from Matrix and Discord and shut down in early 2020
 
 ## SoundCloud
 
@@ -120,6 +127,7 @@ Regional:
 - Chinese: https://t.me/decred_cn
 - English: https://t.me/Decred
 - Italy: https://t.me/DecredItalia
+- Latam developers: https://t.me/dcrlatam_devs
 - Netherlands: https://t.me/Decred_NL
 - Russian: https://t.me/Decred_RU
 - Spanish: https://t.me/DecredES
@@ -158,9 +166,11 @@ Other:
 - Decred Assembly: https://twitter.com/decredassembly
 - Decred Explorer (dcrdata): https://twitter.com/decredexplorer
 - "official": https://twitter.com/decredproject
+- Decred good first issues for new developers: https://twitter.com/dcrgoodfirst
 - Politeia activity notifications: https://twitter.com/pi_crumbs
 - Politeia updates and analysis: https://twitter.com/slices_of_pi
 - The Decred Digest: https://twitter.com/thedecreddigest
+- Decred in Depth podcast (unofficial, by @OfficialCryptos): https://twitter.com/DecredinDepth
 - https://twitter.com/AllThingsDecred
 - https://twitter.com/Decred_News
 - https://twitter.com/decredulous
