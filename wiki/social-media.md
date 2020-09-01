@@ -71,7 +71,12 @@ Groups:
 
 ## Matrix
 
-- Decred homeserver: https://matrix.decred.org (how to join: https://decred.org/matrix/)
+- decred.org homeserver: `matrix.decred.org`
+  - self-hosted chat web app: https://chat.decred.org
+  - how to join: https://decred.org/matrix/
+- Planet Decred homeserver: `matrix.planetdecred.org`
+  - self-hosted chat web app: https://chat.planetdecred.org/
+  - how to join: https://planetdecred.org/chat/
 
 ## Medium
 
