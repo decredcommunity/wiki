@@ -197,7 +197,6 @@ Other:
 
 Regional:
 
-- Africa: https://www.youtube.com/channel/UCWj1aij3QmzTL4BDTyo0o4Q
 - Arabia: https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA
 - Brazil: https://www.youtube.com/c/DecredBrasilOficial
   - alternative link: https://www.youtube.com/channel/UC73wa2ddXuPWsmenVfeFTYg
