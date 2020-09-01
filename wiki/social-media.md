@@ -18,7 +18,7 @@ Pages:
 - Chinese: https://www.facebook.com/DecredChinese/
 - English "official": https://www.facebook.com/decredproject/
 - English "Decred DAO": https://www.facebook.com/Decredcash/
-  - note: it has a _lot_ of followers but it is unknown who runs this page
+  - note: surprising amount of followers, operated by @alexsolo
 - Italy: https://www.facebook.com/DecredITA/
 - Polish: https://www.facebook.com/DecredPolska/
 - Spanish: https://www.facebook.com/DecredESP/
