@@ -1,5 +1,9 @@
 List of Decred social media groups.
 
+## BitChute
+
+- https://www.bitchute.com/channel/decred/
+
 ## Discord
 
 - https://discord.gg/GJ2GXfz
@@ -28,7 +32,7 @@ Groups:
 - Chinese: https://www.facebook.com/groups/DecredChinese/
 - Decred Dev Brazil: https://www.facebook.com/groups/773829952802056/
 - Decred International: https://www.facebook.com/groups/decredinternational/
-  - alternative links: https://www.facebook.com/groups/975727812500893/
+  - alternative link: https://www.facebook.com/groups/975727812500893/
 - France: https://www.facebook.com/groups/403501090093909/
 - Greece: https://www.facebook.com/groups/692867730903055/
 - Paraguay: https://www.facebook.com/groups/428841884278522/
@@ -41,6 +45,8 @@ Groups:
 
 - https://github.com/decred
 - https://github.com/decredcommunity
+- https://github.com/dcr-guys
+- https://github.com/DecredES
 
 ## Instagram
 
@@ -189,11 +195,19 @@ Other:
 
 ## YouTube
 
+Regional:
+
 - Africa: https://www.youtube.com/channel/UCWj1aij3QmzTL4BDTyo0o4Q
+- Arabia: https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA
 - Brazil: https://www.youtube.com/c/DecredBrasilOficial
-- Decred Brazil interviews: https://www.youtube.com/channel/UCEhftcyM6NV0_7c0AaaXUmg
+  - alternative link: https://www.youtube.com/channel/UC73wa2ddXuPWsmenVfeFTYg
+- Brazil interviews: https://www.youtube.com/channel/UCEhftcyM6NV0_7c0AaaXUmg
 - Decred Brazil VSP: https://www.youtube.com/channel/UC1TdziC2MSZ8kU4gkt8KN_A
+- Decred in Spanish: https://www.youtube.com/channel/UCCprOo4gR1vsjJTAzv8BMBQ
+- Russian: https://www.youtube.com/channel/UCFjXbEDeyhhj2bH2t_eGKGA
+
 - Decred Community: https://www.youtube.com/channel/UC8ozM0CknOMoQXrBgrIUS7A
+- Decred Society: https://www.youtube.com/user/PhoenixGreen24
 - "official": https://www.youtube.com/decredchannel
 
 ## Archived
