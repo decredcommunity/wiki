@@ -85,7 +85,7 @@ Regional:
 - Italian: https://medium.com/decred-ita
 - Polish: https://medium.com/decred-polska
 - Russian: https://medium.com/decred-russia
-- Spanish: https://medium.com/@decred_es
+- Spanish: https://medium.com/decred_es
 
 Other:
 
@@ -133,6 +133,7 @@ Other:
 Regional:
 
 - Africa: https://t.me/DecredAfrica
+- Arabia: https://t.me/decredarabia
 - Argentina: https://t.me/DecredArg
 - Brazil: https://t.me/decredbr
 - Chinese: https://t.me/decred_cn
@@ -184,7 +185,6 @@ Other:
 - Decred in Depth podcast (unofficial, by @OfficialCryptos): https://twitter.com/DecredinDepth
 - https://twitter.com/AllThingsDecred
 - https://twitter.com/Decred_News
-- https://twitter.com/decredulous
 
 ## VK
 
@@ -209,6 +209,8 @@ Regional:
 - Decred Brazil VSP: https://www.youtube.com/channel/UC1TdziC2MSZ8kU4gkt8KN_A
 - Decred in Spanish: https://www.youtube.com/channel/UCCprOo4gR1vsjJTAzv8BMBQ
 - Russian: https://www.youtube.com/channel/UCFjXbEDeyhhj2bH2t_eGKGA
+
+Other:
 
 - Decred Community: https://www.youtube.com/channel/UC8ozM0CknOMoQXrBgrIUS7A
 - Decred Society: https://www.youtube.com/user/PhoenixGreen24
