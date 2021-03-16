@@ -47,13 +47,13 @@ Note: Here we only talk about _VSP staking_, because users who can [solo](https:
 
 No. If you have upgraded to v1.6, the only way to use ticket splitting again is to install v1.5, re-download the blockchain and re-create the wallet from seed.
 
-{ can multiple versions of Decrediton be installed on Windows and macOS via our recommended install paths? }
+Installing Decrediton v1.5 in parallel with v1.6 may be hard for non-expert users. All config files (including the wallet db) are (OS-)user global, so only a single install of Decrediton can run for a given operating system user. It should be possible to have multiple OS users and use different version for each. Or use multiple devices.
 
 Decrediton uses dcrd to handle the chain and dcrwallet to handle the wallet.
 
 Release notes for [dcrd v1.6](https://github.com/decred/decred-binaries/releases/tag/v1.6.0#dcrd-v160) warn: once blockchain data is migrated to new version there is no going back without re-downloading it with v1.5.
 
-dcrwallet v1.6 also does a one-way migration of the wallet file and older versions will not work with it. { correct? }
+dcrwallet v1.6 also does a one-way migration of the wallet file and older versions will not work with it.
 
 ## Will it break? When?
 
