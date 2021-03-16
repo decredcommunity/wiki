@@ -5,6 +5,8 @@ updated_utc: 2021-03-16
 
 # Ticket Splitting in v1.6
 
+This Q&A-style document intends to clarify the confusion around ticket splitting emerged around March 2021.
+
 ## What is the short status?
 
 > We absolutely agree ticket splitting is worthwhile. Supporting it correctly moving forward is a lot of work that touches the entire stack, which is going to take some time. See this [blog post](https://blog.decred.org/2019/11/11/LN-Multi-Owner-Tickets/). Meanwhile you can still split tickets using the legacy tools, see [here](https://decredvoting.com/ticketsplitting).
@@ -25,7 +27,7 @@ It is currently possible if the following conditions are met:
 
 In other words, it will _not_ work with v1.6 software, and it will _not_ work with VSPs of the new "vspd" type.
 
-You can get the latest v1.5.2 software [here](https://github.com/decred/decred-binaries/releases/tag/v1.5.2).
+You can get the latest v1.5 software [here](https://github.com/decred/decred-binaries/releases/tag/v1.5.2), which is v1.5.2 (released Aug 2020).
 
 And then you need a compatible VSP. Three are known to support ticket splitting:
 
@@ -33,9 +35,9 @@ And then you need a compatible VSP. Three are known to support ticket splitting:
 - [decredvoting.com](https://decredvoting.com/)
 - [stake.decredbrasil.com](https://stake.decredbrasil.com/)
 
-BUT you also need to join other people to buy a full ticket, you need _active sessions_ on that VSP. Of the three above, only decredvoting.com is having those recently. You can monitor all three on [this page](https://mainnet-split-tickets.matheusd.com/) (slightly outdated text).
+Finally, you also need other people to buy a full ticket as a group. Of the three VSPs above, only decredvoting.com is having _active sessions_ recently. You can monitor splitting sessions on all VSPs on [this page](https://mainnet-split-tickets.matheusd.com/) (links are outdated but the monitoring should work).
 
-This text intends to clarify most recent status but not copy the docs - see [this page](https://decredvoting.com/ticketsplitting) for a good entry point with all instructions linked, and then you can connect with other users in [@dcrtktsplit](https://t.me/dcrtktsplit) Telegram or [##ticketsplitting]({}) on Matrix.
+This document covers the status of ticket splitting in v1.6 but it's not a tutorial - see [this page](https://decredvoting.com/ticketsplitting) for a good entry point with all instructions linked, and then you can connect with other users in [@dcrtktsplit](https://t.me/dcrtktsplit) Telegram or [#ticketsplitting](https://chat.decred.org/#/room/#ticketsplitting:decred.org) on Matrix.
 
 Note: Here we only talk about _VSP staking_, because users who can [solo](https://docs.decred.org/advanced/solo-proof-of-stake-voting/) stake likely don't need ticket splitting.
 
@@ -45,9 +47,9 @@ No. If you have upgraded to v1.6, the only way to use ticket splitting again is 
 
 { can multiple versions of Decrediton be installed on Windows and macOS via our recommended install paths? }
 
-Decrediton relies on dcrd to handle the chain and dcrwallet to handle the wallet.
+Decrediton uses dcrd to handle the chain and dcrwallet to handle the wallet.
 
-Release notes for [dcrd v1.6](https://github.com/decred/decred-binaries/releases/tag/v1.6.0#dcrd-v160) warn: once blockchain data is migrated to new version there is no going back without re-downloading it with v1.5
+Release notes for [dcrd v1.6](https://github.com/decred/decred-binaries/releases/tag/v1.6.0#dcrd-v160) warn: once blockchain data is migrated to new version there is no going back without re-downloading it with v1.5.
 
 dcrwallet v1.6 also does a one-way migration of the wallet file and older versions will not work with it. { correct? }
 
@@ -55,11 +57,11 @@ dcrwallet v1.6 also does a one-way migration of the wallet file and older versio
 
 Yes. The software stack that currently supports ticket splitting will stop working around **May 7, 2021** when v1.5 will stop syncing.
 
-{ what will happen to tickets bought too late, when is too late? }
+{ what will happen to tickets bought close to this deadline? when is too late? is there a risk to buy tickets that will miss? }
 
 ## What is ticket splitting again?
 
-Ticket splitting allows to buy a part of the ticket. At least 5 DCR is required to participate. Participants get:
+Ticket splitting allows to buy a fraction of a ticket with at least 5 DCR. Participants get:
 
 - a _chance_ to cast a consensus vote, proportional to one's input (e.g. funding 60% of a ticket gives a 60% chance to vote with it)
 - a _fraction_ of the voting reward, proportional to one's input
@@ -75,7 +77,7 @@ The split ticket buyer program "logs in" to dcrwallet in a certain way. This way
 
 The new accountless VSP model is very different from the "legacy" VSP model. It offers [huge benefits](https://blog.decred.org/2020/06/02/A-More-Private-Way-to-Stake/) like private staking and better UX, but existing ticket splitting software does not work with it.
 
-A whole new matching protocol, client and server are [required](https://www.reddit.com/r/decred/comments/lj2her/og_ticket/gnj3zqq/) to work with vspd staking. Put simply, it requires a lot of work.
+A whole new matching protocol, client and server are [required](https://www.reddit.com/r/decred/comments/lj2her/og_ticket/gnj3zqq/) to split the tickets with vspd. Put simply, it requires a lot of work.
 
 ## Why don't you guys fix it?
 
@@ -106,19 +108,19 @@ Maybe, but maybe not. @davecgh has [noted](https://www.reddit.com/r/decred/comme
 
 ## Ok enough analyzing, what can we do?
 
-We have few devs and they are busy with what they believe is more important. New developers are free to pick up the task.
+We have few devs and they are busy with what they believe is most important. New developers are free to pick up the task.
 
-There are four things that can be done to go from where we are to where buying partial tickets is super smooth.
+There are four things that can be done to go from where we are to where buying partial tickets is a pleasure.
 
 1. Patch the [splitting client](https://github.com/matheusd/dcr-split-ticket-matcher) to support the new authentication in dcrwallet v1.6. This is the lowest hanging fruit and should make splitting possible with v1.6 and the legacy VSP model.
 
-2. Double check that [dcrstakepool](https://github.com/decred/dcrstakepool) (legacy VSP server) will continue functioning after the new consensus activates around May 7. It has been updated to v1.6 RC4 but we need to know if there will be any issues on the new consensus. I heard there might be an increased chance of missed tickets. { jholdstock karamble clarify }
+2. Double check that [dcrstakepool](https://github.com/decred/dcrstakepool) (legacy VSP server) will continue functioning after the new consensus activates around May 7. It has been updated to v1.6 RC4 but we need to know if it will have any issues on the new consensus. I heard there might be an increased chance of missed tickets. { jholdstock karamble clarify please }
 
 3. Design a new splitting/matching protocol that will work with vspd staking and write client and server for it. This will give ticket splitting users some benefits of vspd staking.
 
-4. Do it properly on Lightning as matheusd has outlined in the [blog](https://matheusd.com/post/ln-split-tickets-04-summary/) and the 4 linked technical articles. Splitting tickets off-chain could much faster and smoother than on-chain, plus all the supporting tech developed in the process will unlock a host of other cool stuff (e.g. crowdfunding).
+4. Do it properly on Lightning as @matheusd has outlined in the [blog](https://matheusd.com/post/ln-split-tickets-04-summary/) and the linked articles. Splitting tickets off-chain would be much faster and smoother than on-chain, plus all the supporting tech developed in the process will unlock a lot of other cool stuff (e.g. crowdfunding).
 
-## Extras
+## Links
 
 Discussions:
 
