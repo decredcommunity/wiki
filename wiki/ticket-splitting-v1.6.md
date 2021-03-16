@@ -139,6 +139,7 @@ Lightning-based "multi-owner tickets" will take time, but there is progress. Jus
 - PTLC proof of concept [in dcrlnd](https://github.com/decred/dcrlnd/compare/v0.3.1...matheusd:ptlc-poc)
 - PTLC-backed MRTTREE client and server PoC [here](https://github.com/matheusd/mrttree)
 - and a demo showing offline LN payments, from inside Decrediton, by building and using the MRTTREE construct ([youtube](https://www.youtube.com/watch?v=m1sQGHUKU7I), demo starts at ~ 15:00 min mark)
+- [announcement](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-March/002983.html) in lightning-dev mailing list explaining the above
 
 ## Links
 
