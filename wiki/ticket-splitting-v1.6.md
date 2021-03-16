@@ -89,8 +89,8 @@ Over almost 3 years 2,679 split tickets were purchased at an average rate of 81/
 
 In addition, we have this data [gathered](https://www.reddit.com/r/decred/comments/m547to/not_focusing_on_split_tickets_will_affect_us/gr0in3e/) from the blockchain:
 
-- split ticket purchases by month [chart](https://pasteboard.co/JSJHHdY.png)
-- split ticket purchases by the number of particpants [chart](https://pasteboard.co/JSJI0f0.png)
+- split ticket purchases by month [chart](https://github.com/decredcommunity/wiki/blob/files/files/20210315.1.png)
+- split ticket purchases by the number of particpants [chart](https://github.com/decredcommunity/wiki/blob/files/files/20210315.2.png)
 
 ## But it was a scary "beta" and hard to use!
 
