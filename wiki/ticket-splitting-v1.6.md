@@ -134,6 +134,12 @@ There are at least 4 things that can be done to fix and improve ticket splitting
 
 4\. Do it properly on Lightning as @matheusd has outlined in the [blog](https://blog.decred.org/2019/11/11/LN-Multi-Owner-Tickets/) and the linked articles. Splitting tickets off-chain would be much faster and smoother than on-chain, plus all the supporting tech developed in the process will unlock a lot of other cool stuff (e.g. crowdfunding).
 
+Lightning-based "multi-owner tickets" will take time, but there is progress. Just recently @matheusd has shared the following (pretty technical) demos:
+
+- PTLC proof of concept [in dcrlnd](https://github.com/decred/dcrlnd/compare/v0.3.1...matheusd:ptlc-poc)
+- PTLC-backed MRTTREE client and server PoC [here](https://github.com/matheusd/mrttree)
+- and a demo showing offline LN payments, from inside Decrediton, by building and using the MRTTREE construct ([youtube](https://www.youtube.com/watch?v=m1sQGHUKU7I), demo starts at ~ 15:00 min mark)
+
 ## Links
 
 Discussions:
