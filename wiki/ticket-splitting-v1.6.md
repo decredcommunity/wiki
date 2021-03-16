@@ -128,7 +128,7 @@ There are at least 4 things that can be done to fix and improve ticket splitting
 
 1\. Patch the [splitting client](https://github.com/matheusd/dcr-split-ticket-matcher) to support the new authentication in dcrwallet v1.6. This is the lowest hanging fruit and should make splitting possible with v1.6 and the legacy VSP model.
 
-2\. Double check that [dcrstakepool](https://github.com/decred/dcrstakepool) (legacy VSP server) will continue functioning after the new consensus activates around May 7. It has been updated to v1.6 RC4 but we need to know if it will have any issues on the new consensus. I heard there might be an increased chance of missed tickets. { check with jholdstock karamble }
+2\. Double check that [dcrstakepool](https://github.com/decred/dcrstakepool) (legacy VSP server) will continue functioning after the new consensus activates around May 7. It has been updated to v1.6 RC4 and I heard it will keep voting with no issues, but an extra test on testnet wouldn't hurt.
 
 3\. Design a new splitting/matching protocol that will work with vspd staking and write client and server for it. This will give ticket splitting users some benefits of vspd staking.
 
