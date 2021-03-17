@@ -3,9 +3,9 @@ author: bee
 updated_utc: 2021-03-16
 ---
 
-# Ticket Splitting in v1.6
+# Ticket splitting in v1.6
 
-This Q&A-style document intends to clarify the confusion around ticket splitting emerged around March 2021.
+This Q&A serves to answer all questions about ticket splitting in context of v1.6 software release, the new vspd staking system and the upcoming consensus change.
 
 ## What is the short status?
 
