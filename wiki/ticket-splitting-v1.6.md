@@ -1,6 +1,6 @@
 ---
 author: bee
-updated_utc: 2021-03-16
+updated_utc: 2021-03-19
 ---
 
 # Ticket splitting in v1.6
@@ -83,7 +83,7 @@ A whole new matching protocol, client and server are [required](https://www.redd
 
 ## Why don't you guys fix it?
 
-There is strong indication that the demand for ticket splitting is not enought to justify pulling our scarce dev resources away from other important work.
+There is strong indication that the demand for ticket splitting is not enough to justify pulling our scarce dev resources away from other important work.
 
 Over almost 3 years 2,679 split tickets were purchased at an average rate of 81/month, meaning that roughly 0.2% of tickets are being split. Largest individual month had 127 split ticket purchases (2020-Mar).
 
